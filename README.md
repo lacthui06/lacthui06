@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile. I'm Thái Anh Lạc!
 
-👩🏻‍💻 Data Science & AI student at University of Transport Ho Chi Minh City, Viet Nam
+👩🏻‍💻 Studying Data Science & AI at University of Transport Ho Chi Minh City, Viet Nam
 
 📖 Sharing my tech journey, learnings and source code
 #
