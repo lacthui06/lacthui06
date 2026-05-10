@@ -28,6 +28,7 @@
 **Tools & Cloud**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,linux" alt="Tools & Cloud" />
+  <img src="https://cdn.simpleicons.org/ngrok/1F1E37" width="48" height="48" alt="ngrok" />
 </p>
 
 ---
