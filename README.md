@@ -21,7 +21,7 @@
 
 **Databases & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sql,flask" alt="Databases & Backend" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlsever,flask" alt="Databases & Backend" />
 </p>
 
 **Tools & Cloud**
