@@ -1,5 +1,6 @@
-# 👋 Welcome to my profile. I'm Thái Anh Lạc!
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Th%C3%A1i+Anh+L%E1%BA%A1c+%F0%9F%91%8B;Data+Science+%26+AI+Student;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</div>
 👩🏻‍💻 Data Science & AI student at University of Transport Ho Chi Minh City, Viet Nam
 
 📖 Sharing my tech journey, learnings, and source code
@@ -20,25 +21,14 @@
 
 **Databases & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlite,flask" alt="Databases & Backend" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sql,flask" alt="Databases & Backend" />
 </p>
 
 **Tools & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,linux,qt" alt="Tools & Cloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,linux" alt="Tools & Cloud" />
 </p>
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lacthui06&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lacthui06&theme=one_dark_pro&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacthui06&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=lacthui06&icon=0&color=0" alt="Profile Views" /></a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lacthui06&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lacthui06&theme=one_dark_pro&hide_border=false)<br/>
