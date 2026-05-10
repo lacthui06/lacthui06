@@ -20,15 +20,14 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,r" alt="Data Science & AI" />
 </p>
 
-**Databases & Backend**
+**Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" alt="Databases & Backend" />
 </p>
 
 **Tools & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,gcp,linux" alt="Tools & Cloud" />
-  <img src="https://cdn.simpleicons.org/ngrok/1F1E37" width="48" height="48" alt="ngrok" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,linux" alt="Tools & Cloud" valign="middle" />&nbsp;<img src="https://cdn.simpleicons.org/ngrok/1F1E37" width="48" height="48" alt="ngrok" valign="middle" />
 </p>
 
 ---
