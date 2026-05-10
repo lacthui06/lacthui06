@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Th%C3%A1i+Anh+L%E1%BA%A1c+%F0%9F%91%8B;Data+Science+%26+AI+Student;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Th%C3%A1i+Anh+L%E1%BA%A1c+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 👩🏻‍💻 Data Science & AI student at University of Transport Ho Chi Minh City, Viet Nam
 
