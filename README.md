@@ -4,7 +4,7 @@
 
 ### 👩🏻‍💻 Data Science & AI student at University of Transport Ho Chi Minh City, Viet Nam
 
-### 📖 Sharing my tech journey, learnings, and source code
+### 📖 Sharing my tech journey, learnings and source code
 
 ---
 
@@ -32,5 +32,7 @@
 
 ---
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=lacthui06&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=lacthui06&theme=one_dark_pro&hide_border=false)<br/>
