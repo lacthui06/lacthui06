@@ -22,12 +22,12 @@
 
 **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" alt="Databases & Backend" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,streamlit" alt="Databases & Backend" />
 </p>
 
 **Tools & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,linux,streamlit" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,linux" />
 </p>
 
 ---
